@@ -5,6 +5,7 @@ namespace Hedron\Drupal8\Parser;
 use Symfony\Component\Yaml\Yaml;
 use Hedron\Command\CommandStackInterface;
 use Hedron\GitPostReceiveHandler;
+use Hedron\Parser\BaseParser;
 
 /**
  * @Hedron\Annotation\Parser(

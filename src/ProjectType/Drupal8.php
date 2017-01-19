@@ -5,6 +5,7 @@ namespace Hedron\Drupal8\ProjectType;
 use EclipseGc\Plugin\Discovery\PluginDefinitionSet;
 use Hedron\Annotation\ProjectType;
 use Hedron\ParserDictionary;
+use Hedron\ProjectType\ProjectTypeBase;
 
 /**
  * @ProjectType(

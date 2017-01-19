@@ -1,8 +1,10 @@
 <?php
 
 namespace Hedron\Drupal8\Parser;
+
 use Hedron\Command\CommandStackInterface;
 use Hedron\GitPostReceiveHandler;
+use Hedron\Parser\BaseParser;
 
 /**
  * @Hedron\Annotation\Parser(

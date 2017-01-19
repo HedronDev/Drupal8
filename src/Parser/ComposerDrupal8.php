@@ -6,6 +6,7 @@ use Composer\Semver\Comparator;
 use Hedron\Command\CommandStackInterface;
 use Hedron\Exception\MissingComposerException;
 use Hedron\GitPostReceiveHandler;
+use Hedron\Parser\BaseParser;
 use Hedron\Tools\ComposerHelperTrait;
 
 /**
