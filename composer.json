@@ -1,6 +1,7 @@
 {
     "name": "hedron/drupal8",
     "description": "A Drupal 8 plugin for Hedron projects.",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Kris Vanderwater",
